@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="Window1" Height="450" Width="800">
     <Grid>
-        <Label>sdcsdsdcsd</Label>
+        <Label >sdcsdsdcsd</Label>
+        <Button Height="100" Width="100" Click="Button_Click"> asas</Button>
     </Grid>
 </Window>
